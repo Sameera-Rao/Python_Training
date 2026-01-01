@@ -1,0 +1,14 @@
+Classes and objects are used in programming to represent real world entities.
+A class defines the structure and objects are created from the class.
+Attributes store data and methods perform operations on the data.
+Inheritance allows one class to use the properties of another class.
+This helps in code reusability and reduces duplication.
+
+File handling is used to read data from a file and write data to another file.
+Files are processed using loops so that each line can be read one by one.
+This makes file processing efficient and organized.
+
+Exception handling is used to manage errors in a program.
+The try block contains code that may cause an error.
+The except block handles the error if it occurs.
+The finally block executes whether an error occurs or not.

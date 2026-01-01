@@ -1,0 +1,10 @@
+Log File Analysis Report
+class: 2
+objects: 2
+attributes: 0
+methods: 1
+inheritance: 0
+file: 2
+loops: 1
+try: 1
+except: 1
